@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, Welcome to my github!
 
 <!--
 **Kennethm-spec/Kennethm-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,20 +18,19 @@ Here are some ideas to get you started:
 <!-- <img src="https://github.com/athornton1618/athornton1618/blob/main/hello.PNG?raw=true" align="left" alt="Hello!"> -->
 
 <p align="right">
-  <p align="center"><strong>Welcome to my github!</strong></p>
-  <p align="center">
-    Hi, I’m Kenneth a Graduate student at Columbia University.</br>
-      <!-- <img alt="CU" width="22px" src="https://github.com/athornton1618/athornton1618/blob/main/Crown.jpg" /> -->
+    <p align="center"><strong>I’m Kenneth a Graduate student at Columbia University</strong></p>
+    <p align="center">
+        <!-- <img alt="CU" width="22px" src="https://github.com/athornton1618/athornton1618/blob/main/Crown.jpg" /> -->
 
-      Here's some of my interests:
+        Here's some of my interests:
 
-      - 📈 Machine Learning 
-      - ♟️ Artificial Intelligence
-      - 🎮 Deep Reinforcement Learning
-      - 📻 Internet of Things
-      - 📊 Big Data Analytics
-      - 📡 Embedded AI
-  </p>
+        - 📈 Machine Learning 
+        - ♟️ Artificial Intelligence
+        - 🎮 Deep Reinforcement Learning
+        - 📻 Internet of Things
+        - 📊 Big Data Analytics
+        - 📡 Embedded AI
+    </p>
 </p>
 
 ```python
@@ -64,7 +63,7 @@ me = Engineer()
 
 <p align="center">
   Visitors :</br>
-  <img src="![Visitor Count](https://profile-counter.glitch.me/Kennethm-spec/count.svg)" />
+  <img src="https://profile-counter.glitch.me/Kennethm-spec/count.svg" />
 </p>
   
 <details>
@@ -72,6 +71,6 @@ me = Engineer()
         Credits
     </summary>
     <ul>
-        <li>Layout ideas acquired from <a href="https://github.com/athornton1618"> </li>
+        <li>Layout ideas acquired from <a href="https://github.com/athornton1618"> athornton1618</a></li>
     </ul>
 </details>
