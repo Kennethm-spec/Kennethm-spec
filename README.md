@@ -57,7 +57,7 @@ me = Engineer()
 ```
 
 <p align="center">
-    Featured Project: <a href="https://github.com/Qulxis/spotify-big-data-project"> Spotify Big Data Project</a> 🔽 </br>
+    Featured Project: <a href="https://github.com/Qulxis/Collaborative-Spotify-Playlist-System"> Spotify Big Data Project</a> 🔽 </br>
     <img src="https://github.com/Kennethm-spec/Kennethm-spec/blob/main/spotify_big_data_architecture.png?raw=true" alt="Hello!">
 </p>
 
