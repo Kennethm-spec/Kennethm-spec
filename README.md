@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- <img src="https://github.com/athornton1618/athornton1618/blob/main/hello.PNG?raw=true" align="left" alt="Hello!"> -->
 
 <p align="center">
-    <p align="center"><strong>I’m Kenneth a Graduate student at Columbia University</strong></p>
+    <p align="center"><strong>I’m Kenneth, a Graduate student at Columbia University</strong></p>
     <p align="center">
         <!-- <img alt="CU" width="22px" src="https://github.com/athornton1618/athornton1618/blob/main/Crown.jpg" /> -->
 
