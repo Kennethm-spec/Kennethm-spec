@@ -29,7 +29,7 @@ Here are some ideas to get you started:
         - 🎮 Deep Reinforcement Learning
         - 📻 Internet of Things
         - 📊 Big Data Analytics
-        - 📡 Embedded AI
+        - ⌚️ Embedded AI
 </p>
 </p>
 
