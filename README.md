@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <p align="center">
         <!-- <img alt="CU" width="22px" src="https://github.com/athornton1618/athornton1618/blob/main/Crown.jpg" /> -->
 
-        Here's some of my interests:
+        Here are some of my interests:
 
         - 📈 Machine Learning 
         - ♟️ Artificial Intelligence
