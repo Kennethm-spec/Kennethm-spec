@@ -46,7 +46,7 @@ class Engineer:
                             "Columbia": "MS Electrical Engineering",
                             }
         self.skills       = [ "Advanced Neural Networks & Deep Learning", "Reinforcement Learning", "IoT",
-                            "Machine Learning", "Algorithms", "Big Data Analytics", 
+                            "Machine Learning", "Data Structures & Algorithms", "Big Data Analytics", 
                             "Robot Learning", "Embedded AI", "Mathematics of Deep Learning"]
         self.connect      = "https://www.linkedin.com/in/kenneth-munyuza/"
     
