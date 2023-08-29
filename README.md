@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 class Engineer:
     def __init__(self):
-        self.name         = "Kenneth Munyzua"
+        self.name         = "Kenneth Munyuza"
         self.role         = "Machine Learning Engineer"
         self.contact      = "km3829@columbia.edu"
         self.education    = {
