@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 class Engineer:
     def __init__(self):
         self.name         = "Kenneth Munyuza"
-        self.role         = "Machine Learning Engineer"
+        self.role         = "Software, Machine Learning Engineer"
         self.contact      = "km3829@columbia.edu"
         self.education    = {
                             "Hope College": "BS Electrical Engineering & BA Computer Science",
@@ -47,7 +47,8 @@ class Engineer:
                             }
         self.skills       = [ "Advanced Neural Networks & Deep Learning", "Reinforcement Learning", "IoT",
                             "Machine Learning", "Data Structures & Algorithms", "Big Data Analytics", 
-                            "Robot Learning", "Embedded AI", "Mathematics of Deep Learning"]
+                            "Robot Learning", "Embedded AI", "Mathematics of Deep Learning, "Natural Language Processing",
+                            "Cloud Computing"]
         self.connect      = "https://www.linkedin.com/in/kenneth-munyuza/"
     
     def getCity():
