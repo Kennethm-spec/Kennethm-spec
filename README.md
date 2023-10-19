@@ -47,8 +47,8 @@ class Engineer:
                             }
         self.skills       = [ "Advanced Neural Networks & Deep Learning", "Reinforcement Learning", "IoT",
                             "Machine Learning", "Data Structures & Algorithms", "Big Data Analytics", 
-                            "Robot Learning", "Embedded AI", "Mathematics of Deep Learning, "Natural Language Processing",
-                            "Cloud Computing"]
+                            "Robot Learning", "Embedded AI", "Mathematics of Deep Learning,
+                            "Natural Language Processing", "Cloud Computing"]
         self.connect      = "https://www.linkedin.com/in/kenneth-munyuza/"
     
     def getCity():
