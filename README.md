@@ -5,7 +5,6 @@
         <strong>I’m Kenneth, a Software/Machine Learning Engineer</strong>
     </p>
     <p align="center">
-        <!-- <img alt="CU" width="22px" src="https://github.com/athornton1618/athornton1618/blob/main/Crown.jpg" /> -->
 
         Here are some of my interests:
 
@@ -15,7 +14,7 @@
         - 📻 Internet of Things
         - 📊 Big Data Analytics
         - ⌚️ Embedded AI
-    </p>
+</p>
 </p>
 
 ```python
