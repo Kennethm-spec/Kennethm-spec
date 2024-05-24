@@ -1,24 +1,9 @@
 ### Hi there 👋, Welcome to my github!
 
-<!--
-**Kennethm-spec/Kennethm-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- <img src="https://github.com/athornton1618/athornton1618/blob/main/hello.PNG?raw=true" align="left" alt="Hello!"> -->
-
 <p align="center">
-    <p align="center"><strong>I’m Kenneth, a Software/Machine Learning Engineer</strong></p>
+    <p align="center">
+        <strong>I’m Kenneth, a Software/Machine Learning Engineer</strong>
+    </p>
     <p align="center">
         <!-- <img alt="CU" width="22px" src="https://github.com/athornton1618/athornton1618/blob/main/Crown.jpg" /> -->
 
@@ -30,7 +15,7 @@ Here are some ideas to get you started:
         - 📻 Internet of Things
         - 📊 Big Data Analytics
         - ⌚️ Embedded AI
-</p>
+    </p>
 </p>
 
 ```python
@@ -40,7 +25,7 @@ class Engineer:
     def __init__(self):
         self.name         = "Kenneth Munyuza"
         self.role         = "Software, Machine Learning Engineer"
-        self.contact      = "km3829@columbia.edu"
+        self.contact      = "kenneht.munyuza@columbia.edu"
         self.education    = {
                             "Hope College": "BS Electrical Engineering & BA Computer Science",
                             "Columbia": "MS Electrical Engineering",
