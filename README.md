@@ -23,8 +23,8 @@
 class Engineer:
     def __init__(self):
         self.name         = "Kenneth Munyuza"
-        self.role         = "Software, Machine Learning Engineer"
-        self.contact      = "kenneht.munyuza@columbia.edu"
+        self.role         = "Software, Machine Learning Platform Engineer"
+        self.contact      = "kenneth.munyuza@columbia.edu"
         self.education    = {
                             "Hope College": "BS Electrical Engineering & BA Computer Science",
                             "Columbia": "MS Electrical Engineering",
